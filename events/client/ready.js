@@ -1,3 +1,3 @@
 module.exports = () =>{
-    console.log('progect eevee is online!')
+    console.log('The Bot is Online!')
 }
